@@ -532,7 +532,7 @@ eWPT Notes
   • This flag allows form submission
   ❑ ALLOW-TOP-NAVIGATION
   • This flag allows theedwsfd
-```
+  ```
 
 - Files and Resources Attacks:
 ```
